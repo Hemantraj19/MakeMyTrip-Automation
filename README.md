@@ -20,8 +20,6 @@ You can install the required libraries using the following commands:
 pip install selenium
 ```
 
-Download the Chrome WebDriver from [ChromeDriver Downloads](https://sites.google.com/chromium.org/driver/) and ensure it's in your system's PATH.
-
 ## How to Run
 
 1. Clone this repository:
