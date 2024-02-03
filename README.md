@@ -49,6 +49,7 @@ Make sure to replace `your_username/your_repository` with your actual GitHub use
 - It selects the cities, date, and class for the train journey.
 - Finally, it initiates the search and fetches the relevant information.
 
-Note: Please be mindful of web scraping policies and the terms of service of the website you are interacting with.
+# Note 
+Please be mindful of web scraping policies and the terms of service of the website you are interacting with.
 
 Feel free to customize the script according to your specific requirements.
